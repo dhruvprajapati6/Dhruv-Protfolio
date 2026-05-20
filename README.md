@@ -1,181 +1,261 @@
-# 🚀 Dhruv's Developer Portfolio
+<div align="center">
 
-# ✨ Modern Animated Developer Portfolio ✨
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:00F0FF,20:6E44FF,40:FF00B8,60:FF6B00,80:00FF99,100:00C2FF&text=DHRUV%20PRAJAPATI&fontSize=58&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=FULL%20STACK%20DEVELOPER%20•%20CYBER%20SECURITY%20LEARNER%20•%20BCA%20STUDENT&descAlignY=58&descSize=18"/>
 
-### 🌐 Professional • Responsive • Animated • Next Level UI
+# ⚡ NEXT LEVEL DEVELOPER PORTFOLIO ⚡
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=Modern+Animated+Portfolio;Professional+Developer+Experience;Creative+Frontend+Design;Cyber+Security+Learner;React+%7C+TypeScript+%7C+Python;Building+Futuristic+Digital+Experiences"/>
 
-# 📌 About This Portfolio
+<br/>
 
-This is my **personal developer portfolio website** built with a modern UI/UX approach.
-The portfolio showcases my:
+<img src="https://img.shields.io/github/followers/your-username?style=for-the-badge&logo=github&labelColor=000000&color=00F0FF"/>
+<img src="https://img.shields.io/github/stars/your-username/portfolio?style=for-the-badge&logo=starship&labelColor=000000&color=FF00B8"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff99?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=6E44FF"/>
 
-* 🚀 Projects
-* 💻 Skills
-* 🧠 Experience
-* 📱 Responsive Design
-* ⚡ Animations
-* 🌐 Social Links
-* 📞 Contact Information
-
-Designed with a premium and futuristic developer aesthetic.
+</div>
 
 ---
 
-# 🔥 Live Preview
+# 🌌 ABOUT THIS PORTFOLIO
 
-### 🌍 Portfolio Running On
+> A futuristic and fully animated personal portfolio crafted with premium UI/UX design principles.
+
+This portfolio is designed to represent:
+
+✨ Professional Developer Branding
+⚡ Smooth Modern Animations
+🎯 Creative Frontend Design
+📱 Fully Responsive Experience
+🚀 High Performance Architecture
+🌐 Interactive User Experience
+🧠 Developer Skills Showcase
+🔥 Premium Dark Futuristic Theme
+
+---
+
+# 🎥 LIVE EXPERIENCE
+
+<div align="center">
+
+## 🌍 Local Preview
 
 ```bash
 http://localhost:8080/
 ```
 
----
+<img width="90%" src="https://user-images.githubusercontent.com/74038190/212897782-96581576-8b80-4d79-87f2-9d039bfd4e31.gif"/>
 
-# 🖼️ Portfolio Preview
-
----
-
-# ⚙️ Tech Stack
+</div>
 
 ---
 
-# ✨ Features
+# 🖥️ PREMIUM FEATURES
 
-## 🎨 UI/UX
+<div align="center">
 
-* 🌈 Modern Glassmorphism Design
-* ✨ Smooth Animations
-* ⚡ Interactive Elements
-* 📱 Fully Responsive
-* 🌙 Dark Theme
-* 🎯 Clean Layout
+| ✨ Feature                  | 🚀 Description                          |
+| -------------------------- | --------------------------------------- |
+| 🎨 Modern UI               | Premium futuristic glassmorphism design |
+| ⚡ Smooth Animations        | Framer Motion powered transitions       |
+| 🌙 Dark Theme              | Stylish neon cyberpunk aesthetic        |
+| 📱 Responsive              | Perfect on Mobile, Tablet & Desktop     |
+| 🧠 Smart Components        | Reusable scalable architecture          |
+| 🔥 Fast Performance        | Optimized loading & rendering           |
+| 🌐 Multi Section Portfolio | Home, About, Skills, Projects, Contact  |
+| 💻 Developer Branding      | Professional online presence            |
+| 📂 Dynamic Projects        | Interactive project showcase            |
+| 📊 GitHub Integration      | GitHub stats & streak cards             |
+| 🔗 Social Links            | Easy networking integration             |
+| 🎯 SEO Ready               | Search engine optimized                 |
 
-## 🚀 Performance
-
-* ⚡ Fast Loading
-* 🔥 Optimized Components
-* 📦 Reusable Structure
-* 🧠 SEO Friendly
-
-## 🛠️ Developer Features
-
-* 📂 Project Showcase
-* 📄 Resume Section
-* 📞 Contact Form
-* 🌐 Social Media Integration
-* 💻 Tech Stack Showcase
+</div>
 
 ---
 
-# 📁 Folder Structure
+# 🛸 TECH STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,nodejs,html,css,python,git,github,vscode,firebase,mongodb,nextjs,figma" />
+
+</div>
+
+---
+
+# ⚙️ POWERFUL SECTIONS
+
+```yaml
+🏠 Hero Section
+🙋 About Me
+🧠 Skills Showcase
+🚀 Featured Projects
+📜 Resume Download
+📊 GitHub Stats
+🌐 Social Media Links
+📞 Contact Section
+✨ Animated UI Components
+```
+
+---
+
+# 📁 ADVANCED PROJECT STRUCTURE
 
 ```bash
 portfolio/
 │
 ├── public/
+│   └── assets/
+│
 ├── src/
 │   ├── components/
 │   ├── pages/
-│   ├── assets/
+│   ├── animations/
+│   ├── layouts/
 │   ├── hooks/
 │   ├── routes/
-│   └── styles/
+│   ├── styles/
+│   ├── data/
+│   └── utils/
 │
 ├── package.json
-├── vite.config.js
+├── tailwind.config.js
+├── vite.config.ts
 └── README.md
 ```
 
 ---
 
-# 🚀 Installation & Setup
+# 🚀 INSTALLATION GUIDE
 
-## 1️⃣ Clone Repository
+## 📥 Clone Repository
 
 ```bash
 git clone https://github.com/your-username/portfolio.git
 ```
 
-## 2️⃣ Navigate Into Folder
+## 📂 Open Folder
 
 ```bash
 cd portfolio
 ```
 
-## 3️⃣ Install Dependencies
+## 📦 Install Packages
 
 ```bash
 npm install
 ```
 
-## 4️⃣ Run Development Server
+## ▶️ Start Development Server
 
 ```bash
 npm run dev
 ```
 
----
+## 🌍 Build Production Version
 
-# 💻 Built With
-
-| Technology    | Usage              |
-| ------------- | ------------------ |
-| React.js      | Frontend Framework |
-| TypeScript    | Type Safety        |
-| Tailwind CSS  | Styling            |
-| Framer Motion | Animations         |
-| Vite          | Fast Build Tool    |
-| Lucide Icons  | Beautiful Icons    |
+```bash
+npm run build
+```
 
 ---
 
-# 🌟 Highlights
+# 🔥 PORTFOLIO HIGHLIGHTS
 
-| Feature               | Status |
-| --------------------- | ------ |
-| Responsive Design     | ✅      |
-| Animated UI           | ✅      |
-| Dark Theme            | ✅      |
-| Smooth Scroll         | ✅      |
-| Modern Components     | ✅      |
-| Optimized Performance | ✅      |
+<div align="center">
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-# 📊 GitHub Stats
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true&background=0D1117"/>
 
----
+</div>
 
-# 🧠 Currently Learning
+<div align="center">
 
-* 🔐 Cyber Security
-* 🐍 Python
-* ⚛️ Advanced React
-* 🌐 Full Stack Development
-* ☁️ Cloud & Deployment
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+
+</div>
 
 ---
 
-# 🌍 Connect With Me
+# 🧠 CURRENTLY LEARNING
+
+<div align="center">
+
+| Technology                | Progress     |
+| ------------------------- | ------------ |
+| 🔐 Cyber Security         | ██████████░░ |
+| 🐍 Python                 | █████████░░░ |
+| ⚛️ Advanced React         | ████████░░░░ |
+| ☁️ Cloud Computing        | ██████░░░░░░ |
+| 🌐 Full Stack Development | █████████░░░ |
+
+</div>
 
 ---
 
-# 💖 Support
+# 🌐 CONNECT WITH ME
 
-If you like this portfolio then:
+<div align="center">
 
-⭐ Star the Repository
-🍴 Fork the Project
-💬 Share Feedback
+<a href="https://github.com/your-username">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/your-profile">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/your-username">
+<img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://x.com/your-username">
+<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-# 🏆 Developer Quote
+# 🏆 ACHIEVEMENTS
 
-> "Code. Create. Innovate. Repeat. 🚀"
+```diff
++ Fully Responsive Design
++ Premium Animated UI
++ Clean Code Architecture
++ Modern Developer Experience
++ High Performance Optimization
++ Creative Frontend Design
++ Professional Branding
+```
 
 ---
 
-### ⭐ Crafted With Passion By Dhruv ⭐
+# 💎 DEVELOPER QUOTE
+
+<div align="center">
+
+# ❝ Code • Design • Innovate • Repeat ❞
+
+### 🚀 Turning Ideas Into Reality Through Code 🚀
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:00F0FF,20:6E44FF,40:FF00B8,60:FF6B00,80:00FF99,100:00C2FF"/>
+
+# ⭐ Crafted With Passion By Dhruv ⭐
+
+### 💙 Thanks For Visiting My Portfolio 💙
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Keep+Learning+Keep+Building;Dream+Big+Build+Bigger;Future+Full+Stack+Developer"/>
+
+</div>
