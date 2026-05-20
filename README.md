@@ -1,261 +1,246 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:00F0FF,20:6E44FF,40:FF00B8,60:FF6B00,80:00FF99,100:00C2FF&text=DHRUV%20PRAJAPATI&fontSize=58&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=FULL%20STACK%20DEVELOPER%20•%20CYBER%20SECURITY%20LEARNER%20•%20BCA%20STUDENT&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:7c3aed,100:06b6d4&height=220&section=header&text=Dhruv%20Prajapati&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Cyber%20Security%20Enthusiast%20%E2%80%A2%20Python%20Developer&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
 
-# ⚡ NEXT LEVEL DEVELOPER PORTFOLIO ⚡
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=Modern+Animated+Portfolio;Professional+Developer+Experience;Creative+Frontend+Design;Cyber+Security+Learner;React+%7C+TypeScript+%7C+Python;Building+Futuristic+Digital+Experiences"/>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=06B6D4&center=true&vCenter=true&multiline=false&width=650&lines=Hey+there!+I'm+Dhruv+%F0%9F%91%8B;Python+Developer+%F0%9F%90%8D;Full+Stack+Engineer+%E2%9A%A1;Cyber+Security+Enthusiast+%F0%9F%9B%A1;Building+amazing+things+%F0%9F%9A%80;Open+for+Internships+%26+Freelance+%F0%9F%92%BC)](https://git.io/typing-svg)
+
+</div>
 
 <br/>
 
-<img src="https://img.shields.io/github/followers/your-username?style=for-the-badge&logo=github&labelColor=000000&color=00F0FF"/>
-<img src="https://img.shields.io/github/stars/your-username/portfolio?style=for-the-badge&logo=starship&labelColor=000000&color=FF00B8"/>
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff99?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=6E44FF"/>
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=dhruvprajapati6&color=06b6d4&style=for-the-badge&label=PROFILE+VIEWS)&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/dhruvprajapati6?color=7c3aed&style=for-the-badge&logo=github&label=Followers&logoColor=white)](https://github.com/dhruvprajapati6)&nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/dhruvprajapati6?color=06b6d4&style=for-the-badge&logo=github&label=Stars&logoColor=white)](https://github.com/dhruvprajapati6)
 
 </div>
 
 ---
 
-# 🌌 ABOUT THIS PORTFOLIO
+<br/>
 
-> A futuristic and fully animated personal portfolio crafted with premium UI/UX design principles.
+>
 
-This portfolio is designed to represent:
-
-✨ Professional Developer Branding
-⚡ Smooth Modern Animations
-🎯 Creative Frontend Design
-📱 Fully Responsive Experience
-🚀 High Performance Architecture
-🌐 Interactive User Experience
-🧠 Developer Skills Showcase
-🔥 Premium Dark Futuristic Theme
+<br/>
 
 ---
 
-# 🎥 LIVE EXPERIENCE
+## 🌟 What's Inside This Portfolio?
+
+<br/>
 
 <div align="center">
 
-## 🌍 Local Preview
-
-```bash
-http://localhost:8080/
-```
-
-<img width="90%" src="https://user-images.githubusercontent.com/74038190/212897782-96581576-8b80-4d79-87f2-9d039bfd4e31.gif"/>
+|  | Feature | Description |
+|:---:|:---|:---|
+| 🎮 | **Physics Playground** | Grab & throw tech skill blocks with real gravity |
+| 🌀 | **Orbital Profile** | Rotating rings with orbiting tech icons around photo |
+| ✨ | **Smooth Animations** | Framer Motion powered transitions & effects |
+| 🃏 | **3D Project Cards** | Perspective tilt effect on hover |
+| 📊 | **Live Stats Counter** | Animated numbers triggered on scroll |
+| 🧲 | **Magnetic Buttons** | Buttons physically pull toward your cursor |
+| 🔫 | **Scan Line Effect** | Cyberpunk-style scanner on profile photo |
+| 📱 | **Fully Responsive** | Perfect on mobile, tablet & desktop |
 
 </div>
 
+<br/>
+
 ---
 
-# 🖥️ PREMIUM FEATURES
+## 🛠️ Built With
+
+<br/>
 
 <div align="center">
 
-| ✨ Feature                  | 🚀 Description                          |
-| -------------------------- | --------------------------------------- |
-| 🎨 Modern UI               | Premium futuristic glassmorphism design |
-| ⚡ Smooth Animations        | Framer Motion powered transitions       |
-| 🌙 Dark Theme              | Stylish neon cyberpunk aesthetic        |
-| 📱 Responsive              | Perfect on Mobile, Tablet & Desktop     |
-| 🧠 Smart Components        | Reusable scalable architecture          |
-| 🔥 Fast Performance        | Optimized loading & rendering           |
-| 🌐 Multi Section Portfolio | Home, About, Skills, Projects, Contact  |
-| 💻 Developer Branding      | Professional online presence            |
-| 📂 Dynamic Projects        | Interactive project showcase            |
-| 📊 GitHub Integration      | GitHub stats & streak cards             |
-| 🔗 Social Links            | Easy networking integration             |
-| 🎯 SEO Ready               | Search engine optimized                 |
+### ⚡ Core
+
+![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite_5-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🎨 Animation & UI
+
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Canvas API](https://img.shields.io/badge/Canvas_API-FF6B35?style=for-the-badge&logo=html5&logoColor=white)
+![TanStack Router](https://img.shields.io/badge/TanStack_Router-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+
+### 🔧 Backend & DevOps
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </div>
 
----
-
-# 🛸 TECH STACK
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,nodejs,html,css,python,git,github,vscode,firebase,mongodb,nextjs,figma" />
-
-</div>
+<br/>
 
 ---
 
-# ⚙️ POWERFUL SECTIONS
+## 🚀 Quick Start
 
-```yaml
-🏠 Hero Section
-🙋 About Me
-🧠 Skills Showcase
-🚀 Featured Projects
-📜 Resume Download
-📊 GitHub Stats
-🌐 Social Media Links
-📞 Contact Section
-✨ Animated UI Components
-```
-
----
-
-# 📁 ADVANCED PROJECT STRUCTURE
+<br/>
 
 ```bash
-portfolio/
-│
-├── public/
-│   └── assets/
-│
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── animations/
-│   ├── layouts/
-│   ├── hooks/
-│   ├── routes/
-│   ├── styles/
-│   ├── data/
-│   └── utils/
-│
-├── package.json
-├── tailwind.config.js
-├── vite.config.ts
-└── README.md
-```
+# 📥 Clone this repo
+git clone https://github.com/dhruvprajapati6/portfolio.git
 
----
-
-# 🚀 INSTALLATION GUIDE
-
-## 📥 Clone Repository
-
-```bash
-git clone https://github.com/your-username/portfolio.git
-```
-
-## 📂 Open Folder
-
-```bash
+# 📂 Enter the project
 cd portfolio
-```
 
-## 📦 Install Packages
-
-```bash
+# 📦 Install all dependencies
 npm install
-```
 
-## ▶️ Start Development Server
-
-```bash
+# 🔥 Start dev server
 npm run dev
+
+# 🌐 Open in browser
+# → http://localhost:5173
 ```
 
-## 🌍 Build Production Version
+<br/>
 
-```bash
-npm run build
+> 💡 **Requirements:** Node.js 18+ · npm 9+
+
+<br/>
+
+---
+
+## 📁 Project Structure
+
+<br/>
+
+```
+🗂️  portfolio/
+│
+├── 📂 src/
+│   ├── 📂 assets/              ← Images & static files
+│   ├── 📂 components/
+│   │   └── 📂 portfolio/       ← Reusable UI components
+│   ├── 📂 data/
+│   │   └── 📄 portfolio.ts     ← Your profile, projects & stats
+│   ├── 📂 hooks/               ← Custom React hooks
+│   │   ├── useTypewriter.ts
+│   │   ├── useCounter.ts
+│   │   └── useSocialLinks.ts
+│   ├── 📂 routes/
+│   │   ├── index.tsx           ← 🏠 Home page
+│   │   ├── projects.tsx        ← 💼 Projects page
+│   │   └── resume.tsx          ← 📄 Resume page
+│   └── 📂 styles/              ← Global CSS & tokens
+│
+├── 📄 package.json
+├── 📄 tailwind.config.ts
+├── 📄 vite.config.ts
+└── 📄 README.md
 ```
 
----
-
-# 🔥 PORTFOLIO HIGHLIGHTS
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
-
-</div>
+<br/>
 
 ---
 
-# 🧠 CURRENTLY LEARNING
+## 🎨 Design Tokens
+
+<br/>
 
 <div align="center">
 
-| Technology                | Progress     |
-| ------------------------- | ------------ |
-| 🔐 Cyber Security         | ██████████░░ |
-| 🐍 Python                 | █████████░░░ |
-| ⚛️ Advanced React         | ████████░░░░ |
-| ☁️ Cloud Computing        | ██████░░░░░░ |
-| 🌐 Full Stack Development | █████████░░░ |
+| Token | Hex | Preview |
+|:------|:----|:--------|
+| Primary Cyan | `#06b6d4` | ![#06b6d4](https://placehold.co/80x20/06b6d4/06b6d4.png) |
+| Primary Purple | `#7c3aed` | ![#7c3aed](https://placehold.co/80x20/7c3aed/7c3aed.png) |
+| Background | `#070b14` | ![#070b14](https://placehold.co/80x20/070b14/070b14.png) |
+| Glass Surface | `rgba(255,255,255,0.04)` | ![glass](https://placehold.co/80x20/0d1117/0d1117.png) |
+| Glow Cyan | `rgba(34,211,238,0.2)` | ![glow](https://placehold.co/80x20/22d3ee/22d3ee.png) |
 
 </div>
 
+<br/>
+
 ---
 
-# 🌐 CONNECT WITH ME
+## 📊 GitHub Stats
+
+<br/>
 
 <div align="center">
 
-<a href="https://github.com/your-username">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/your-profile">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/your-username">
-<img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://x.com/your-username">
-<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhruvprajapati6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070b14&title_color=06b6d4&icon_color=7c3aed&text_color=a0aec0&ring_color=06b6d4" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvprajapati6&layout=compact&theme=tokyonight&hide_border=true&bg_color=070b14&title_color=06b6d4&text_color=a0aec0&langs_count=8" />
 
 </div>
 
+<br/>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=dhruvprajapati6&theme=tokyonight&hide_border=true&background=070b14&stroke=06b6d4&ring=7c3aed&fire=06b6d4&currStreakLabel=06b6d4&sideLabels=a0aec0&dates=a0aec0&currStreakNum=ffffff&sideNums=ffffff" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhruvprajapati6&bg_color=070b14&color=06b6d4&line=7c3aed&point=06b6d4&area=true&hide_border=true&area_color=06b6d4)
+
+</div>
+
+<br/>
+
 ---
 
-# 🏆 ACHIEVEMENTS
+## 🤝 Let's Connect
 
-```diff
-+ Fully Responsive Design
-+ Premium Animated UI
-+ Clean Code Architecture
-+ Modern Developer Experience
-+ High Performance Optimization
-+ Creative Frontend Design
-+ Professional Branding
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhruv_Prajapati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-prajapati-616b89362/)
+[![GitHub](https://img.shields.io/badge/GitHub-dhruvprajapati6-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhruvprajapati6)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-06b6d4?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+💬  Always open to interesting conversations, collaborations & opportunities!
+     Don't hesitate to reach out — I reply fast 🚀
 ```
 
----
-
-# 💎 DEVELOPER QUOTE
-
-<div align="center">
-
-# ❝ Code • Design • Innovate • Repeat ❞
-
-### 🚀 Turning Ideas Into Reality Through Code 🚀
-
 </div>
 
+<br/>
+
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:00F0FF,20:6E44FF,40:FF00B8,60:FF6B00,80:00FF99,100:00C2FF"/>
+### ⭐ If you like this portfolio, please give it a star!
+### It motivates me to keep building cool stuff 🙏
 
-# ⭐ Crafted With Passion By Dhruv ⭐
+<br/>
 
-### 💙 Thanks For Visiting My Portfolio 💙
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Keep+Learning+Keep+Building;Dream+Big+Build+Bigger;Future+Full+Stack+Developer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:06b6d4,100:7c3aed&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
