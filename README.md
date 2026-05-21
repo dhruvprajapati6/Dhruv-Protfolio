@@ -1,134 +1,133 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:06b6d4,60:7c3aed,100:000000&height=300&section=header&text=DHRUV%20PRAJAPATI&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=⚡%20Full%20Stack%20Developer%20•%20🛡️%20Cyber%20Security%20•%20🐍%20Python%20Engineer&descAlignY=65&descSize=17&stroke=06b6d4&strokeWidth=2&animation=twinkling" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&animation=twinkling" width="100%" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=500&color=06B6D4&center=true&vCenter=true&width=700&lines=%E2%96%BA+Turning+ideas+into+reality+%F0%9F%9A%80;%E2%96%BA+Python+%7C+React+%7C+Flask+%7C+Docker;%E2%96%BA+Cyber+Security+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;%E2%96%BA+Building+the+web%2C+one+commit+at+a+time;%E2%96%BA+Available+for+Internships+%26+Freelance+%F0%9F%92%BC;%E2%96%BA+Let%27s+build+something+extraordinary+%E2%9A%A1)](https://git.io/typing-svg)
+<a href="https://github.com/dhruvprajapati6">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&height=80&lines=Hi+%F0%9F%91%8B+I'm+Dhruv+Prajapati" alt="Typing SVG" />
+</a>
+
+<a href="https://github.com/dhruvprajapati6">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Developer+%F0%9F%9A%80;Python+%26+Flask+Engineer+%F0%9F%90%8D;Cyber+Security+Enthusiast+%F0%9F%9B%A1;React+%7C+TypeScript+%7C+Docker;Open+for+Internships+%26+Freelance+%E2%9C%85" alt="Roles" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/dhruv-prajapati-616b89362/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/dhruvprajapati6">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=dhruvprajapati6&style=flat-square&color=06b6d4&label=Profile+Views"/>
+<img src="https://img.shields.io/badge/Status-Available%20for%20Hire-06b6d4?style=flat-square"/>
 
 </div>
-
-<br/>
-
-<div align="center">
-
-![](https://img.shields.io/badge/STATUS-AVAILABLE_FOR_HIRE-06b6d4?style=for-the-badge&labelColor=070b14&color=06b6d4&logo=statuspage&logoColor=white)
-![](https://img.shields.io/badge/LOCATION-INDIA_🇮🇳-7c3aed?style=for-the-badge&labelColor=070b14)
-![Profile Views](https://komarev.com/ghpvc/?username=dhruvprajapati6&color=06b6d4&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
-<br/>
 
 ---
 
-<div align="center">
-
-## 〔 W H O  A M  I 〕
-
-</div>
-
 <br/>
 
-```python
-#!/usr/bin/env python3
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-#   ██████╗ ██╗  ██╗██████╗ ██╗   ██╗██╗   ██╗
-#   ██╔══██╗██║  ██║██╔══██╗██║   ██║██║   ██║
-#   ██║  ██║███████║██████╔╝██║   ██║██║   ██║
-#   ██║  ██║██╔══██║██╔══██╗██║   ██║╚██╗ ██╔╝
-#   ██████╔╝██║  ██║██║  ██║╚██████╔╝ ╚████╔╝
-#   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝   ╚═══╝
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
----
-class DhruvPrajapati:
+### 🧑‍💻 About Me
 
-    def __init__(self):
-        self.name         = "Dhruv Prajapati"
-        self.title        = "Full Stack Developer & Cyber Security Enthusiast"
-        self.location     = "India 🇮🇳"
-        self.portfolio    = "https://your-portfolio-url.com"
-        self.linkedin     = "https://linkedin.com/in/dhruv-prajapati-616b89362"
-        self.github       = "https://github.com/dhruvprajapati6"
-
-    @property
-    def tech_stack(self):
-        return {
-            "languages"  : ["Python 🐍", "JavaScript ⚡", "TypeScript", "HTML5", "CSS3"],
-            "frontend"   : ["React ⚛", "TailwindCSS", "Framer Motion", "Vite"],
-            "backend"    : ["Flask 🧪", "Node.js 📦", "REST API 🔗"],
-            "databases"  : ["MySQL 🗄", "PostgreSQL", "SQLite"],
-            "devops"     : ["Docker 🐳", "Linux 🐧", "Git 🌿", "AWS ☁"],
-            "security"   : ["Network Security", "Penetration Testing", "OWASP"],
-        }
-
-    @property
-    def currently(self):
-        return {
-            "learning"   : "Advanced Cyber Security & Cloud Architecture",
-            "building"   : "Premium Portfolio with Physics Engine 🎮",
-            "exploring"  : "Machine Learning & AI Integration 🤖",
-            "open_to"    : "Internships, Freelance & Collaborations ✅",
-        }
-
-    def fun_facts(self):
-        return [
-            "⚡ I turn coffee into code",
-            "🛡️  I break things to make them more secure",
-            "🎮  I built a physics engine just for a portfolio section",
-            "🚀  I push to main at 3am (don't judge me)",
-        ]
-
-me = DhruvPrajapati()
-print(f"Hello World! I'm {me.name} 👋")
+```yaml
+Name     : Dhruv Prajapati
+From     : India 🇮🇳
+Focus    : Full Stack + Cyber Security
+Status   : Open to Internships & Freelance
 ```
 
+- 🔭 &nbsp; Currently building a **premium physics-based portfolio**
+- 🌱 &nbsp; Learning **Advanced Cyber Security** & **Cloud Architecture**
+- 🤖 &nbsp; Exploring **Machine Learning** & AI integration
+- 💬 &nbsp; Ask me about **Python, React, Flask, Linux, Security**
+- ⚡ &nbsp; Fun fact — I built a **physics engine** just for my portfolio! 🎮
+- 📫 &nbsp; Reach me on [LinkedIn](https://www.linkedin.com/in/dhruv-prajapati-616b89362/)
+
+<br/><br/><br/><br/>
+
+---
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<table>
+<tr>
+<td valign="top" width="25%">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+<td valign="top" width="25%">
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+</td>
+<td valign="top" width="25%">
+
+**Backend**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+<td valign="top" width="25%">
+
+**DevOps & Security**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+</div>
+
 <br/>
 
 ---
 
+<br/>
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-## 〔 T E C H  A R S E N A L 〕
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhruvprajapati6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=a78bfa&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvprajapati6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&text_color=c9d1d9&langs_count=8"/>
 
 </div>
 
-<br/>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=dhruvprajapati6&theme=tokyonight&hide_border=true&background=0d1117&stroke=06b6d4&ring=a78bfa&fire=06b6d4&currStreakLabel=06b6d4&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" height="170"/>
+
+</div>
 
 <div align="center">
 
-### ◈ Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ◈ Frontend
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### ◈ Backend & Database
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### ◈ DevOps & Security
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhruvprajapati6&bg_color=0d1117&color=06b6d4&line=a78bfa&point=06b6d4&area=true&hide_border=true&area_color=06b6d415&custom_title=Dhruv's%20Contribution%20Graph)
 
 </div>
 
@@ -136,33 +135,90 @@ print(f"Hello World! I'm {me.name} 👋")
 
 ---
 
+<br/>
+
+## 🏆 GitHub Trophies
+
 <div align="center">
 
-## 〔 P O R T F O L I O  H I G H L I G H T S 〕
+[![trophy](https://github-profile-trophy.vercel.app/?username=dhruvprajapati6&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 <br/>
 
+---
+
+<br/>
+
+## 🚀 Featured Project — My Portfolio
+
 <div align="center">
 
+> A **premium dark-themed interactive portfolio** with physics engine, orbital animations, and cinematic UI — built from scratch with React + TypeScript + Framer Motion.
+
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<h3>🎮 Physics Engine</h3>
+Real gravity simulation<br/>
+Drag & throw tech blocks<br/>
+Block collision detection<br/>
+Motion trails on fast moves
+</td>
+<td align="center" width="33%">
+<h3>🌀 Orbital Profile</h3>
+Rotating decorative rings<br/>
+Orbiting tech icons<br/>
+Cyberpunk scan line effect<br/>
+Live availability badge
+</td>
+<td align="center" width="33%">
+<h3>✨ Premium UI</h3>
+3D tilt project cards<br/>
+Magnetic cursor buttons<br/>
+Glass morphism design<br/>
+Smooth spring animations
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+**Stack used:**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack_Router-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## 📈 Coding Activity
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+```text
+Python       ████████████░░░░░░░░  55%
+JavaScript   ██████░░░░░░░░░░░░░░  25%
+TypeScript   ████░░░░░░░░░░░░░░░░  15%
+Other        █░░░░░░░░░░░░░░░░░░░   5%
 ```
-╔═══════════════════════════════════════════════════════════════════╗
-║                                                                   ║
-║   🎮  PHYSICS PLAYGROUND     Real gravity · Drag & throw blocks   ║
-║   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   ║
-║   🌀  ORBITAL PROFILE        Rotating rings · Orbiting icons      ║
-║   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   ║
-║   🃏  3D PROJECT CARDS       Perspective tilt · Glow on hover     ║
-║   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   ║
-║   🧲  MAGNETIC BUTTONS       Physics-based cursor attraction       ║
-║   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   ║
-║   🔫  SCAN LINE FX           Cyberpunk scanner on photo           ║
-║   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   ║
-║   📊  LIVE STATS             Animated counters on scroll          ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
+<!--END_SECTION:waka-->
 
 </div>
 
@@ -170,101 +226,26 @@ print(f"Hello World! I'm {me.name} 👋")
 
 ---
 
-<div align="center">
-
-## 〔 G I T H U B  S T A T S 〕
-
-</div>
-
 <br/>
 
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dhruvprajapati6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070b14&title_color=06b6d4&icon_color=7c3aed&text_color=a0aec0&ring_color=06b6d4&count_private=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvprajapati6&layout=compact&theme=tokyonight&hide_border=true&bg_color=070b14&title_color=06b6d4&text_color=a0aec0&langs_count=8" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="65%" src="https://streak-stats.demolab.com?user=dhruvprajapati6&theme=tokyonight&hide_border=true&background=070b14&stroke=06b6d4&ring=7c3aed&fire=06b6d4&currStreakLabel=06b6d4&sideLabels=a0aec0&dates=a0aec0&currStreakNum=ffffff&sideNums=ffffff"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhruvprajapati6&bg_color=070b14&color=06b6d4&line=7c3aed&point=ffffff&area=true&hide_border=true&area_color=06b6d420&custom_title=Dhruv's%20Contribution%20Graph)
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## 〔 T R O P H I E S 〕
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dhruvprajapati6&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## 〔 S N A K E 〕
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![snake gif](https://github.com/dhruvprajapati6/dhruvprajapati6/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## 〔 C O N N E C T 〕
-
-</div>
-
-<br/>
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/dhruv-prajapati-616b89362/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Dhruv%20Prajapati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://github.com/dhruvprajapati6">
-  <img src="https://img.shields.io/badge/GitHub-Follow_me-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/GitHub-dhruvprajapati6-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://your-portfolio-url.com">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Now_🚀-06b6d4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-06b6d4?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="mailto:your-email@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Say_Hello_👋-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -273,20 +254,8 @@ print(f"Hello World! I'm {me.name} 👋")
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   💬  I'm always open to:                                   │
-│                                                             │
-│       🤝  Collaborating on interesting projects             │
-│       💼  Internship & Freelance opportunities              │
-│       🧠  Discussing tech, security & new ideas             │
-│       ☕  A virtual coffee chat anytime!                    │
-│                                                             │
-│   📬  I reply within 24 hours — let's connect!             │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+*💼 Open to internships, freelance projects & collaborations*
+*⚡ I reply fast — don't hesitate to reach out!*
 
 </div>
 
@@ -296,7 +265,7 @@ print(f"Hello World! I'm {me.name} 👋")
 
 <div align="center">
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&bgColor=%23070b14&textColor=%23a0aec0&qColor=%2306b6d4&aColor=%237c3aed)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First%20solve%20the%20problem%2C%20then%20write%20the%20code&author=John%20Johnson"/>
 
 </div>
 
@@ -304,24 +273,8 @@ print(f"Hello World! I'm {me.name} 👋")
 
 <div align="center">
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
-
-> *"Any fool can write code that a computer can understand.*
-> *Good programmers write code that humans can understand."* — Martin Fowler
+### ⭐ If this inspired you — drop a star! It keeps me going 🚀
 
 </div>
 
-<br/>
-
----
-
-<div align="center">
-
-### 🌟 Show some love — drop a ⭐ on this repo!
-### Every star fuels another late-night coding session 🚀
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:7c3aed,100:06b6d4&height=160&section=footer&text=Keep+Building+%F0%9F%94%A5+Keep+Growing+%F0%9F%8C%B1&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
