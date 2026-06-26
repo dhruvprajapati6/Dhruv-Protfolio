@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://github.com/dhruvprajapati6"> </a>
+<align center> <a href="https://github.com/dhruvprajapati6"> </a>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&height=80&lines=Hi+%F0%9F%91%8B+I'm+Dhruv+Prajapati" alt="Typing SVG" />
 </a>
 
